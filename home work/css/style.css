@@ -1,0 +1,20 @@
+.flag{
+   width:450px;
+   height:250px;
+   border:5px solid black; 
+}
+.flag .black{
+    width:100%;
+    height:33.5%;
+    background-color:black;
+}
+.flag .yellow{
+    width:100%;
+    height:33.5%;
+    background-color:yellow;
+}
+.flag .red{
+    width:100%;
+    height:33.5%;
+    background-color:red;
+}
